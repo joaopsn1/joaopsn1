@@ -1,5 +1,5 @@
 # João Pedro
-Olá! Eu sou o João Pedro, estou no último ano do curso de Engenharia Mecânica e estou migrando para a área de tecnologia, mais voltado ao BackEnd.
+Olá! Eu sou o João Pedro, sou formado em Engenharia Mecânica e estou migrando para a área de tecnologia, mais voltado ao BackEnd.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-souza-nunes-ab4224217/) 
